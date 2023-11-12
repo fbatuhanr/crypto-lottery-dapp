@@ -1,6 +1,6 @@
 import { createListingFromPriceID } from "@/util/createListing";
 import { getMarketplaceAddress } from "@/util/getContractAddress";
-import { getMarketplaceContract, getNFTContract } from "@/util/getContracts";
+import { getMarketplaceContract, getNFTContract } from "@/util/getContract";
 import {
     Marketplace,
     RequiredParam,

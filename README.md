@@ -1,4 +1,4 @@
-<h1> Crypto Lottery Decentralized Application </h1>
+x<h1> Crypto Lottery Decentralized Application </h1>
 
 #### Crypto Lottery Decentralized Application is a lottery draw application with crypto assets.
 #### Connect your wallet, choose the number of tickets you want to buy and join the pool of accumulated funds.
@@ -15,5 +15,7 @@
 - Restarting the lottery (resets the time if no participation occurred)
 - Refunds to all participants
 
+
+### Dapp Video:
 
 https://github.com/fbatuhanr/crypto-lottery-dapp/assets/34348780/85e42b20-e784-4e08-9930-a62ad4ad196c

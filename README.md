@@ -1,4 +1,4 @@
-### Crypto Lottery Decentralized Application 
+<h1> Crypto Lottery Decentralized Application </h1>
 
 #### Crypto Lottery Decentralized Application is a lottery draw application with crypto assets.
 #### Connect your wallet, choose the number of tickets you want to buy and join the pool of accumulated funds.

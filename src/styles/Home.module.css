@@ -2,8 +2,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 6rem;
+    padding: 0;
     min-height: 100vh;
+    width: 100%;
 }
 
 .description {
@@ -40,7 +41,7 @@
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(4, minmax(25%, auto));
+    grid-template-columns: repeat(4, minmax(50%, auto));
     width: var(--max-width);
     max-width: 100%;
     text-align: center;
@@ -77,7 +78,7 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    padding: 4rem 0;
+    padding: 0 0 4rem 0;
 }
 
 .center::before {
@@ -92,7 +93,7 @@
     background: var(--primary-glow);
     width: 240px;
     height: 180px;
-    z-index: -1;
+    z-index: -9999;
 }
 
 .center::before,
@@ -102,6 +103,7 @@
     position: absolute;
     filter: blur(45px);
     transform: translateZ(0);
+    z-index: -9999;
 }
 
 .logo,

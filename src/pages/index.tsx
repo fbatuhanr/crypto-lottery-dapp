@@ -3,11 +3,7 @@ import Layout from "@/layout/Layout";
 function Home() {
     return (
         <Layout>
-            <div>
-                <h1 className="text-3xl font-semibold my-12 text-center">
-                    Lottery
-                </h1>
-            </div>
+            <h1 className="text-3xl font-semibold my-8 text-center">Welcome to Crypto Lottery</h1>
         </Layout>
     );
 }

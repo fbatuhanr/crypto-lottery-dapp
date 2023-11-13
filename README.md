@@ -19,3 +19,6 @@ x<h1> Crypto Lottery Decentralized Application </h1>
 ### Dapp Video:
 
 https://github.com/fbatuhanr/crypto-lottery-dapp/assets/34348780/85e42b20-e784-4e08-9930-a62ad4ad196c
+
+
+![screencapture-localhost-3000-2023-11-13-16_48_36](https://github.com/fbatuhanr/crypto-lottery-dapp/assets/34348780/83e7a97b-71c7-49c8-8c34-a34a12090d64)

@@ -6,7 +6,7 @@
 ##### - The more tickets you buy, the more chances you have to win!
 #### Track live the remaining time for the draw, the number of remaining tickets and the amount of money accumulated in the pool.
 
-—————
+———————————————
 
 ##### When the Lottery administrator logs in with his/her own wallet, he/she has admin rights.
 ###### Admin rights;
@@ -16,11 +16,11 @@
 - Refunds to all participants
 
 
-—————
+———————————————
 
 <i>I use 'Lottery Smart Contract' for this dapp from thirdweb.com, resource: <a href="https://thirdweb.com/0x741179Acd84FeDEb7315a8ce4149f5cEF914185c/Lottery" target="_blank">https://thirdweb.com/0x741179Acd84FeDEb7315a8ce4149f5cEF914185c/Lottery</a></i>
 
-—————
+———————————————
 
 ### Dapp Video:
 

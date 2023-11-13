@@ -16,8 +16,11 @@
 - Refunds to all participants
 
 
-(I use 'Lottery Smart Contract' for this dapp from thirdweb.com, resource: <a href="https://thirdweb.com/0x741179Acd84FeDEb7315a8ce4149f5cEF914185c/Lottery" target="_blank">https://thirdweb.com/0x741179Acd84FeDEb7315a8ce4149f5cEF914185c/Lottery</a>)
+—————
 
+<i>I use 'Lottery Smart Contract' for this dapp from thirdweb.com, resource: <a href="https://thirdweb.com/0x741179Acd84FeDEb7315a8ce4149f5cEF914185c/Lottery" target="_blank">https://thirdweb.com/0x741179Acd84FeDEb7315a8ce4149f5cEF914185c/Lottery</a></i>
+
+—————
 
 ### Dapp Video:
 
